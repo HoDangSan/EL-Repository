@@ -1,0 +1,191 @@
+<!--  popup create-->
+<dx-popup
+  [width]="900"
+  [height]="500"
+  [showTitle]="false"
+  [dragEnabled]="false"
+  [closeOnOutsideClick]="true"
+  [(visible)]="visible">
+  <dx-box
+    direction="col"
+    width="100%"
+    [height]="500">
+    <!-- header -->
+    <dxi-item
+      class="rect header header-height"
+      [ratio]="1">
+      <dx-box width="100%" [height]="60" class="header-height">
+        <dxi-item [ratio]="1">
+          <i class="icon-title fas fa-clipboard-check"></i>
+        </dxi-item>
+        <dxi-item [ratio]="27">
+          <dx-text-box class="txtTitle w-500"
+                       [(value)]="task.name"
+                       [readOnly]="!allowEditing"
+                       placeholder="Task Tile">
+          </dx-text-box>
+        </dxi-item>
+        <dxi-item [ratio]="3">
+          <dx-button (click)="close()" class="btn-close-popup"><i class="fas fa-times"></i></dx-button>
+        </dxi-item>
+      </dx-box>
+    </dxi-item>
+    <!-- end header -->
+    <!-- body -->
+    <dxi-item
+      [ratio]="10"
+      [baseSize]="0">
+      <dx-box
+        direction="row"
+        width="100%"
+        [height]="440">
+        <dxi-item
+          class="rect"
+          [ratio]="4">
+          <!-- form create -->
+          <dx-scroll-view>
+            <dx-validation-group>
+              <div class="form">
+                <div class="dx-fieldset" >
+                  <div class="dx-field">
+                    <div class="dx-field-label" style="text-align: left">Start Date</div>
+                    <div class="dx-field-value">
+                      <dx-date-box
+                        [(value)]="task.startDate"
+                        type="datetime"
+                        *ngIf="task.id">
+                      </dx-date-box>
+                      <span *ngIf="!task.id">{{today | date : 'medium'}}</span>
+                    </div>
+                  </div>
+                  <div class="dx-field">
+                    <div class="dx-field-label" style="text-align: left">Dua Date</div>
+                    <div class="dx-field-value">
+                      <dx-date-box
+                        [(value)]="task.dueDate"
+                        type="datetime">
+                      </dx-date-box>
+                    </div>
+                  </div>
+                  <div class="dx-field">
+                    <div class="dx-field-label" style="text-align: left">Assign Employee</div>
+                    <div class="dx-field-value">
+                      <dx-select-box
+                        [dataSource]="employees"
+                        displayExpr="name"
+                        valueExpr="id"
+                        [(value)]="task.ownerId"
+                      ></dx-select-box>
+                    </div>
+                  </div>
+                  <div class="dx-field">
+                    <div class="dx-field-label" style="text-align: left">Owner</div>
+                    <div class="dx-field-value">
+                      <dx-select-box
+                        [dataSource]="employees"
+                        displayExpr="name"
+                        valueExpr="id"
+                        [(value)]="task.assignedEmployeeId"
+                      ></dx-select-box>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </dx-validation-group>
+            <div class="todo-group">
+              <div class="todo-title">
+                <div class="todo-content">
+                  <i class="far checklist-icon fa-square"></i>
+                  <span>Implement API - UI - Backend</span>
+                </div>
+                <div class="todo-action">
+                  <span><i class="fas fa-edit"></i></span>&nbsp;
+                  <span><i class="fas fa-trash-alt"></i></span>
+                </div>
+              </div>
+              <div class="todo-title-border"></div>
+              <div class="todo-checklist">
+                <dx-check-box class="todo-checklist-checkbox"></dx-check-box>
+                <div class="todo-checklist-content">
+                  <dx-text-box id="1" class="cl-content-title" [(value)]="valueTextArea"></dx-text-box>
+                  <div id="btn-todo-checklist-action" class="todo-checklist-action" (click)="withShadingOptionsVisibleChecklistAction()">
+                    <i class="fas fa-ellipsis-h"></i>
+                  </div>
+                  <dx-popover
+                    target="#btn-todo-checklist-action"
+                    [(visible)]="visibleChangeChecklistAction">
+                    <p class="btn-action-delete-checklist"><i class="fas fa-trash-alt"></i> Delete</p>
+                  </dx-popover>
+                </div>
+              </div>
+            </div>
+          </dx-scroll-view>
+          <!-- end form create -->
+        </dxi-item>
+        <!-- action -->
+        <dxi-item
+          class="rect"
+          [ratio]="1" style="padding: 0px 10px 0px 30px">
+          <p class="lb-action">ADD TO TASK</p>
+          <dx-button id="btn-todo" class="btn-action" (click)="toggleWithShadingOptions()">
+            <i class="icon-action far fa-check-square"></i>
+            <span> To-Do</span>
+          </dx-button>
+          <dx-popover
+            id="popover-todo"
+            target="#btn-todo"
+            position="bottom"
+            [width]="300"
+            shadingColor="rgba(0, 0, 0, 0.5)"
+            [(visible)]="withShadingOptionsVisible">
+            <div id="pop-title">Add To-Do</div>
+            <div id="popover-todo-content">
+              <div class="popover-todo-content-group">
+                <div>Title</div>
+                <dx-text-box></dx-text-box>
+              </div>
+              <div class="popover-todo-content-group">
+                <dx-button id="btn-add-todo" [width]="300"text="Add" role="button"></dx-button>
+              </div>
+            </div>
+          </dx-popover>
+          <p class="lb-action">ACTIONS</p>
+          <dx-button class="btn-action" (click)="saveTask()">
+            <i class="icon-action far fa-save"></i>
+            <span> Save</span>
+          </dx-button>
+          <dx-button class="btn-action" (onClick)="showWarring()" *ngIf="task.id">
+            <i class="icon-action fas fa-trash-alt"></i>
+            <span> Delete</span>
+          </dx-button>
+          <dx-popup
+            [width]="300"
+            [height]="150"
+            [showTitle]="true"
+            title="Warring"
+            [dragEnabled]="false"
+            [closeOnOutsideClick]="true"
+            [(visible)]="visibleWarring">
+              <p>
+                Would you have delete task?
+              </p>
+              <p style="text-align: right">
+                <dx-button
+                  text="Cancel"
+                  style="margin-right: 5px"
+                  (onClick)="closeWarring()">
+                </dx-button> &ensp;
+                <dx-button
+                  text="Delete"
+                  (click)="deleteTask()">
+                </dx-button>
+              </p>
+          </dx-popup>
+        </dxi-item>
+        <!-- end action-->
+      </dx-box>
+    </dxi-item>
+    <!-- end body -->
+  </dx-box>
+</dx-popup>
+<!--  end pop-up create-->

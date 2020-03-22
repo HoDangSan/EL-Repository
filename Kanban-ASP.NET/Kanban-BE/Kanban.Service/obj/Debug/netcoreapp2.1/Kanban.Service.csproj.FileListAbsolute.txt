@@ -1,0 +1,28 @@
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Service.deps.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Service.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Service.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Model.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Repository.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.UnitOfWork.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.UnitOfWork.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Model.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Repository.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.csprojAssemblyReference.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.AssemblyInfoInputs.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.AssemblyInfo.cs
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.csproj.CopyComplete
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Service.deps.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Service.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Service.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Model.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Repository.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Model.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\bin\Debug\netcoreapp2.1\Kanban.Repository.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.csprojAssemblyReference.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.AssemblyInfoInputs.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.AssemblyInfo.cs
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.csproj.CopyComplete
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Service\obj\Debug\netcoreapp2.1\Kanban.Service.pdb

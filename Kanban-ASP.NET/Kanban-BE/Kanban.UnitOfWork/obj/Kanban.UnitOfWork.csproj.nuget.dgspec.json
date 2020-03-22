@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.UnitOfWork\\Kanban.UnitOfWork.csproj": {}
+  },
+  "projects": {
+    "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Model\\Kanban.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Model\\Kanban.Model.csproj",
+        "projectName": "Kanban.Model",
+        "projectPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Model\\Kanban.Model.csproj",
+        "packagesPath": "C:\\Users\\Ho Dang San\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ho Dang San\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Repository\\Kanban.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Repository\\Kanban.Repository.csproj",
+        "projectName": "Kanban.Repository",
+        "projectPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Repository\\Kanban.Repository.csproj",
+        "packagesPath": "C:\\Users\\Ho Dang San\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ho Dang San\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Model\\Kanban.Model.csproj": {
+                "projectPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Model\\Kanban.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.UnitOfWork\\Kanban.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.UnitOfWork\\Kanban.UnitOfWork.csproj",
+        "projectName": "Kanban.UnitOfWork",
+        "projectPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.UnitOfWork\\Kanban.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\Ho Dang San\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ho Dang San\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Repository\\Kanban.Repository.csproj": {
+                "projectPath": "E:\\ASP.NET CORE - Project\\Kanban\\Kanban-BE\\Kanban.Repository\\Kanban.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.deps.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.runtimeconfig.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.runtimeconfig.dev.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Model.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Repository.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Service.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.UnitOfWork.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Service.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Model.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Repository.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.UnitOfWork.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.csprojAssemblyReference.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.RazorAssemblyInfo.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.RazorAssemblyInfo.cs
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.AssemblyInfoInputs.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.AssemblyInfo.cs
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.RazorTargetAssemblyInfo.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.csproj.CopyComplete
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\appsettings.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.deps.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.runtimeconfig.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.runtimeconfig.dev.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Api.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Model.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Repository.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Service.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Service.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Model.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\bin\Debug\netcoreapp2.1\Kanban.Repository.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.csprojAssemblyReference.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.RazorAssemblyInfo.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.RazorAssemblyInfo.cs
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.AssemblyInfoInputs.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.AssemblyInfo.cs
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.RazorTargetAssemblyInfo.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.csproj.CopyComplete
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Api\obj\Debug\netcoreapp2.1\Kanban.Api.pdb

@@ -1,0 +1,19 @@
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.deps.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.runtimeconfig.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.runtimeconfig.dev.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.AssemblyInfoInputs.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.AssemblyInfo.cs
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.csprojAssemblyReference.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.deps.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.runtimeconfig.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.runtimeconfig.dev.json
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\bin\Debug\netcoreapp2.1\Kanban.Model.pdb
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.AssemblyInfoInputs.cache
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.AssemblyInfo.cs
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.dll
+E:\ASP.NET CORE - Project\Kanban\Kanban-BE\Kanban.Model\obj\Debug\netcoreapp2.1\Kanban.Model.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kanban.Repository</id>
+    <version>1.0.0</version>
+    <authors>Kanban.Repository</authors>
+    <owners>Kanban.Repository</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\san.ho\source\repos\Kanban\Kanban.Repository\bin\Debug\netcoreapp2.1\Kanban.Repository.dll" target="lib\netcoreapp2.1\Kanban.Repository.dll" />
+  </files>
+</package>

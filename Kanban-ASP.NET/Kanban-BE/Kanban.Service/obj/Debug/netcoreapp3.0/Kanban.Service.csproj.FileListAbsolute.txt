@@ -1,0 +1,8 @@
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp3.0\Kanban.Service.deps.json
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp3.0\Kanban.Service.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\bin\Debug\netcoreapp3.0\Kanban.Service.pdb
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp3.0\Kanban.Service.csprojAssemblyReference.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp3.0\Kanban.Service.AssemblyInfoInputs.cache
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp3.0\Kanban.Service.AssemblyInfo.cs
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp3.0\Kanban.Service.dll
+C:\Users\san.ho\source\repos\Kanban\Kanban.Service\obj\Debug\netcoreapp3.0\Kanban.Service.pdb
